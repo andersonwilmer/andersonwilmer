@@ -22,9 +22,10 @@
     <li>IoT em Rede - integração de Arduino com rede local</li>
     <li>Redes Avançadas - noções de VLANs</li>
     <li>Windows Server - AD DS, GPO, servidor de arquivos, DHCP e backup</li>
-    <li>Linux Debian – firewall, hospedagem web e aplicações Java</li>
+    <li>Linux Debian - firewall, hospedagem web e aplicações Java</li>
     <li>Banco de Dados - MySQL, tabelas, relacionamentos e consultas SQL</li>
-    <li>JavaScript - fundamentos de programação</li>
+    <li>JavaScript - variáveis, tipos de dados, operadores e lógica de programação</li>
+    <li>Java - programação orientada a objetos, interfaces gráficas com Swing e padrão MVC</li>
 </ul>
 
 <h3>Aperfeiçoando Linguagens</h3>
@@ -34,6 +35,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h3 align="left">Minhas Redes</h3>
 
